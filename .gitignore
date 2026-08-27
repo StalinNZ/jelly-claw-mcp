@@ -1,0 +1,24 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Configs with secrets
+config.json
+cmd.json
+*.env
+
+# Generated files
+MASTER_CATALOG.json
+audit.log
+
+# Coverage
+coverage.txt
+coverage.html
+
+# OS
+.DS_Store
